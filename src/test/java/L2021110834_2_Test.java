@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * 测试用例设计的总体原则:等价类划分
+ * 测试用例设计的总体原则:等价类划分66
  */
 public class L2021110834_2_Test {
     @Test
