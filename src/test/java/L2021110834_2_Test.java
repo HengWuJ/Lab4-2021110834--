@@ -15,7 +15,7 @@ public class L2021110834_2_Test {
         //测试去除重复字符
         assertEquals("abc",test.removeDuplicateLetters(a));
         //测试去除重复字符后按字母序列排
-        assertEquals("acdbe",test.removeDuplicateLetters(b));
+        assertEquals("acdb",test.removeDuplicateLetters(b));
         //测试不发生改变
         assertEquals("dcba",test.removeDuplicateLetters(c));
     }
